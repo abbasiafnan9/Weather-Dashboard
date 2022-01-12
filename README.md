@@ -12,4 +12,7 @@ THEN I am presented with a color that indicates whether the conditions are favor
 WHEN I view future weather conditions for that city
 THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 WHEN I click on a city in the search history
-THEN I am again presented with current and future conditions for that city![weather](https://user-images.githubusercontent.com/86696292/135895348-d69e0914-904e-45c8-b845-e540b11b00df.PNG)
+THEN I am again presented with current and future conditions for that city
+## Contribution
+There is no contribution needed for this project.
+![weather](https://user-images.githubusercontent.com/86696292/135895348-d69e0914-904e-45c8-b845-e540b11b00df.PNG)
